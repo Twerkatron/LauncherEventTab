@@ -35,8 +35,8 @@
           
 <div>
     <h3>Weekly download specials</h3>
-    <p>Come back every sunday to discover brand new covers, background and decks! 
-        You can also upload your own custom stuff and share them with your friends.</p>
+    <p>You all are invited to come back every Sunday where we will have new Backgrounds, Covers, as well as Decks which are all available for download.
+        You are also welcome to Upload your own custom Art and Share them will all of your Friends!</p>
         
 
 <p><b>Paket #1</b></p>        
@@ -145,9 +145,9 @@
 <!-- Tab Decks  -->    
 <div class="dhtmlgoodies_aTab">
     <h3>Decks</h3>
-    <p>These Decks are DevPro-"Structure-Decks". The aren't completely finished yet, 
-        so you have to work on them to get them more competetive. 
-        Each Deck includes 40 Main Deck Cards, 10 Extra Deck Cards and 10 Side Deck Cards.</p>
+    <p>These Decks are DevPro's version of-"Structure-Decks." They are incomplete builds, 
+    	giving you the oppurtunity to have a head start on the deck you wish to build! 
+        Each Deck includes 40 Main Deck Cards, 10 Extra Deck Cards, as well as 10 Side Deck Cards.</p>
     
     <div id="col1">
     <h5 class="center">Archfiends</h5>
@@ -277,8 +277,8 @@
     
 <!-- Tab User Uploads  -->    
 <div class="dhtmlgoodies_aTab">
-    <p>Users can upload covers, backgrounds and themes. We share some of your 
-    uploads with the community. This feature will coming soon.</p>
+    <p>Users can Upload Backgrounds, Covers, and themes. Some of this content
+    is shared with our community. This feature will be coming soon.</p>
     <p><a href="http://ygopro.de/login.php?sites=login">DevPro Web Login</a> for DevPro uploads. 
     Currently you can only upload decks.</p>
 </div>
@@ -286,32 +286,32 @@
 <!-- Tab FAQ  -->    
 <div class="dhtmlgoodies_aTab">
 
-    <h5>How to use a Custom card sleeve?</h5>
+    <h5>How do you use a Custom card sleeve?</h5>
         <p>
-        In your game folder "textures" you can replace "cover.jpg" and "cover2.jpg" 
-        with your own sleeves. You only see this cardsleeves in your duels. If you want 
-        that your oppenent see your custom sleeve you can upload the sleeve to our server. 
+        In your DevPro Directory folder "textures" you can replace "cover.jpg" and "cover2.jpg" 
+        with your own sleeves. Only you can see these sleeves during a duel. However, if you want
+        your opponent to be able to see your sleeves as well you're welcome upload them to our Site.'
         <a href="http://ygopro.de/login.php?sites=login">ygopro.de login</a>
         </p>
-    <h5>How to use a Custom Background?</h5>
+    <h5>How do you use a Custom Background?</h5>
         <p>
-   In your game folder "textures" you can replace "bg.jpg" and "bg2.jpg" 
-         with your own backgrounds. You only see this backgrounds.
+   In your DevPro Director folder "textures" you can replace "bg.jpg" and "bg2.jpg" 
+         with your own backgrounds. Only you are able to see this Background during a duel.
   </p>
-    <h5>How to use a Custom Theme?</h5>
+    <h5>How do you use a Custom Theme?</h5>
   <p>
-  In your game folder "skins" you can place the folder with the skin and in the game folder "textures" you can replace the graphics.
-  Then you must select the skin in the options and enable directx. You only see this theme.
+  In your DevPro directory folder "skins" you can place the folder with the skin, and in the game folder "textures" you can replace the graphics.
+  Then you must select the skin in the options and enable directx. Only you can see these Skins during a duel.
   </p>
- <h5>How to use a deck?</h5> 
+ <h5>How do you use a deck?</h5> 
   <p>
   In your game folder "deck" you can place the decks.
   </p>
- <h5>How do download these things?</h5> 
+ <h5>How do you download these things?</h5> 
   <p>
-  Click on the download button. This opens a page.
+  Click the download button. This opens a page that will redirict you to the download link;
   You must wait on the page before you can skip the advertisement.
-  Then you can download the stuff.
+  Then you can download the item you wish to download.
   </p>
 
 </div>    
